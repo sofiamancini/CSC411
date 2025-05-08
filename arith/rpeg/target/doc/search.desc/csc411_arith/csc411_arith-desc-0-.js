@@ -1,0 +1,1 @@
+searchState.loadedDescShard("csc411_arith", 0, "Given an <code>index</code> in the [0, 15] range, returns the <code>chroma</code> …\nGiven a <code>chroma</code> value, returns the index of its closest …")

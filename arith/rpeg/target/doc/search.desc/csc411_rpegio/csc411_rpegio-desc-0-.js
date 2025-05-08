@@ -1,0 +1,1 @@
+searchState.loadedDescShard("csc411_rpegio", 0, "csc411_rpegio\nReads and parses rpeg data from a file, or stdin if no …\nOutputs rpeg data to stdout.\nOutputs rpeg data to stdout in a human-readable, debug …")

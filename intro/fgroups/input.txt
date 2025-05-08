@@ -1,0 +1,17 @@
+/home/nr/cs/40/2009 /home/nr/cs/40/2009~
+/home/nr/cs/40/40.lua /home/nr/cs/40/40.lua~
+/home/nr/cs/40/amd64-info /home/nr/cs/40/bad-markdown-out.html
+/home/nr/cs/40/chetana/11_ProcArch.pdf /home/nr/cs/40/chetana/MemoryMountain.pdf
+/home/nr/cs/40/chetana/results.pdf /home/nr/cs/40/chetana/worksheet1.pdf
+/home/nr/cs/40/2009 /home/nr/cs/40/exams/CSAPP-exams/#fork-final-f01.tex#
+/home/nr/cs/40/2009 /home/nr/cs/40/[23206 chars].c
+/invalid/fingerprint/example.txt
+/mnt/data/big_project_folder/2024_q1_financial_reports_final_version_super_important_confidential.pdf
+/mnt/data/big_project_folder/2024_q1_financial_reports_draft_v1.pdf
+/opt/software_releases/ultra_mega_super_long_application_name_version_2024_patch_5_final_build_stable_release_candidate.exe
+/opt/software_releases/ultra_mega_super_long_application_name_version_2024_patch_5_final_build_beta.exe
+/opt/software_releases/ultra_mega_super_long_application_name_version_2024_patch_5_final_build_alpha.exe
+/home/user/documents/research_paper_final_version_edited_reviewed_approved_2024_with_appendix_and_references.pdf
+/home/user/documents/research_paper_final_version_draft.pdf
+/var/logs/system_log_error_backup_20240204_critical_security_patch_applied.log
+/var/logs/system_log_error_current.log

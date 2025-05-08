@@ -1,0 +1,15 @@
+[package]
+name = "rum"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rum"
+path = "src/main.rs"
+
+[dependencies]
+
+[profile.profiling]
+inherits = "release"
+debug = true
+lto = true

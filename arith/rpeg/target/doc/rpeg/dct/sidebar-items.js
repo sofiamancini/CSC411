@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["dct","dequantize","inverse_dct","quantize"],"struct":["DctCoefficients"]};

@@ -1,0 +1,39 @@
+# CSC 411 - Programming Technique
+
+## Assignment 2-iii
+Sofia Mancini
+Due: 21st February, 2025
+
+## Introduction: 
+
+A programming technique I have increasingly adopted this semester is conducting research before writing code. 
+Previously, I would read an assignment and begin implementation immediately. While this approach worked for earlier programming courses, 
+it often led to inefficient, disorganized code. My solutions would pass an autograder but were not always the most effective.
+
+## Research Methods:
+
+To begin, I identify relevant methods or algorithms, such as sorting techniques, iterators, or specific definitions mentioned in the assignment. 
+I find that forums like Stack Overflow provide helpful plain-language explanations, but the coding solutions are not always optimal, 
+so I evaluate them critically. More technical sources, such as the Rust documentation, can be dense, 
+so I use AI tools to clarify complex definitions and provide examples. 
+Finally, I create a test file (test.rs) to experiment with basic implementations before committing to a final approach.
+
+## Improvements:
+
+Since adopting this technique, I have written cleaner, more logical code that is easier to follow. I have also learned best practices, 
+such as incorporating built-in debugging steps and identifying efficiency improvements early. By investing time in research, 
+the actual implementation process is smoother, with fewer errors.
+
+For example, when writing my Array2 library, I researched various array traversal methods and vector access strategies beforehand. 
+In the past, I often encountered issues mid-implementation and resorted to complex, inefficient solutions. 
+Since I had already invested significant time in a suboptimal approach, starting over felt impractical. Now, with a research-first approach, 
+I avoid these pitfalls and develop more maintainable solutions.
+
+## Comparison:
+
+In CSC 212, I built a Sudoku solver in C++ using recursion. My implementation relied on nested loops to access board elements, 
+leading to inefficient memory access and potential performance issues. Additionally, recursive backtracking has high time and space complexity, 
+making it costly in terms of runtime and memory allocation.
+
+With Rust, I improved efficiency by first developing the Array2 library, which streamlined data access and reduced stack usage by avoiding recursive backtracking. 
+I also implemented enhanced error handling and memory safety measures—techniques I learned while researching the Rust documentation.

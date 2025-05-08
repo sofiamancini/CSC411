@@ -1,0 +1,17 @@
+[package]
+name = "rpeg"
+version = "0.1.0"
+edition = "2021"
+documentation = "https://docs.rs/rpeg"
+
+[dependencies]
+csc411_image = "0.5.2"
+csc411_arith = "0.1.0"
+csc411_rpegio = "0.4.0"
+array2 = { path = "../array2" }
+bitpack = { path = "../bitpack" }
+tempfile = "3.3"
+
+[lib]
+name = "rpeg"
+path = "src/lib.rs"
